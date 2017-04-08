@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FragmentTabHost</string>
+    <string name="home">主页</string>
+    <string name="type">分类</string>
+    <string name="shopcar">购物车</string>
+    <string name="my">我的</string>
+</resources>
